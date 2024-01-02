@@ -1,2 +1,2 @@
-# Contact
-Contact
+# A Simple Contact
+A Simple Contact
